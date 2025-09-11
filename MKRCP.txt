@@ -25,6 +25,9 @@ Kampung Rimba Terjun,
 Jalan Kukup, 82000 Pontian,
 Johor
 
+if want to make a booking just type "booking" in the chat.
+if want to check date / check availability just type "check availability" in the chat.
+
 PRODUCT :
 
 PONDOK A-TENT
@@ -216,13 +219,6 @@ Communicate effectively, respect others, take turns , and be responsible
 FISHING RULE:
 
 Only in house guest can fishing.
-
-CHATBOT GUIDE:
-
-if want to make a booking just type "booking" in the chat.
-if want to check date / check availability just type "check availability" in the chat.
-
-
 
 
 
