@@ -195,7 +195,7 @@ THE ESSENTIAL GUIDE TO CAMPING :
 Pack it in, pack it out, leave no trash behind
 
 2.BE FIRE SMART
-Building fire indesignated area or on fire mash
+Building fire in designated area or on fire mash
 
 3.RESPECT QUIET HOURS
 Keep your noise levels down from sundown to sunrise
@@ -221,6 +221,7 @@ CHATBOT GUIDE:
 
 if want to make a booking just type "booking" in the chat.
 if want to check date / check availability just type "check availability" in the chat.
+
 
 
 
