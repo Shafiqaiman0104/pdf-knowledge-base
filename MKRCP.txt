@@ -16,7 +16,7 @@ BOOKING INSTRUCTIONS:
 - To make a booking, type "booking" in the chat
 - To check availability, type "check availability" in the chat
 
-PRODUCTS / UNITS:
+ACCOMMODATION UNITS:
 
 PONDOK A-TENT
 RM85.00/night (Weekdays)
@@ -139,5 +139,6 @@ REFUND & CHARGEBACK POLICY:
 4. Chargebacks will be treated as fraudulent with proof submitted
 
 FISHING RULE: Only in-house guests can fish.
+
 
 
